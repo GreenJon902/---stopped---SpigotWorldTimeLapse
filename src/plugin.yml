@@ -5,3 +5,4 @@ main: com.GreenJon902.worldTimeLapse.WorldTimeLapse
 api-version: 1.14
 depend: [CoreProtect]
 description: A plugin to let you select and area and watch it develop using the CoreProtect database
+website: https://github.com/GreenJon902/SpigotWorldTimeLapse
